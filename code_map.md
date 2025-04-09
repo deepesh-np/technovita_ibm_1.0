@@ -1,4 +1,4 @@
-##Mapping:
+# Mapping:
 
 <component_mapping>
 1. React Frontend (Client UI): 
