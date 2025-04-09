@@ -1,4 +1,4 @@
-# React + Vite
+# LLmind
 
 use api key in .env file due to the expiration of free credit the api key is not listed here
 
